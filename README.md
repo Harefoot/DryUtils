@@ -1,2 +1,2 @@
 # DryUtils
-Try GIS repository for Dry Utils
+Test GIS repository for Dry Utils
